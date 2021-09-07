@@ -1,5 +1,5 @@
 # NattyFashion
-UX/UI Frond-end Design with .xml and .java in Android Studio. <br>
+UX/UI Front-end Design with .xml and .java in Android Studio. <br>
 Scroll down to view screenshots of Design Layouts <br>
 LoadScreen (5s) <br>
 ![alt text](https://github.com/Nattytekabe/NattyFashion/blob/master/Screenshot%20(139).png)
